@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Nivedan 👋
 
-<!--
-**nivedans/nivedans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MSc Aerospace Engineering graduate transitioning into Data Analytics.
 
-Here are some ideas to get you started:
+## Technical Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Excel
+- SQL
+- Power BI
+- Python (Developing)
+
+## Featured Project
+
+📊 Consumer Credit Risk Analytics Dashboard
+
+- 32,000+ lending records analysed
+- SQL hypothesis testing
+- Interactive Power BI dashboard
+- Business-focused recommendations
+
+📍 London | Open to Data Analyst opportunities
