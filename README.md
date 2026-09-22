@@ -1,4 +1,4 @@
-# Hi, I'm Nivedan 👋
+# Hi, I'm Nivedan Sivanandam 👋
 
 MSc Aerospace Engineering graduate transitioning into Data Analytics.
 
