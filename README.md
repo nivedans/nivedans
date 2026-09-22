@@ -1,6 +1,13 @@
 # Hi, I'm Nivedan Sivanandam 👋
 
-MSc Aerospace Engineering graduate transitioning into Data Analytics.
+MSc Aerospace Engineering graduate (Distinction) building business-focused analytics projects using Excel, SQL and Power BI.
+
+Currently building an analytics portfolio focused on:
+
+- Business Intelligence
+- Credit Risk Analytics
+- Dashboard Development
+- KPI Reporting
 
 ## Technical Skills
 
